@@ -25,7 +25,7 @@ pip3 install torchvision<br>
 Instructions:
 -------------
 1.select a training algorithm<br>
-cd <algorithm folder><br>
+cd [algorithm folder] <br>
 2. train the networks<br>
 command example<br>
 python train_DQN.py --env-name=KangarooNoFrameskip-v4 --cuda<br>
